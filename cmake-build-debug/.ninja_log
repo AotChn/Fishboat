@@ -1,0 +1,5 @@
+# ninja log v5
+0	649	1707025898410801166	CMakeFiles/main.dir/main.cpp.o	8da7b4d27c8a108f
+2	3746	1707025901492219311	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	ce12d6ea4f7b81fc
+3747	3815	1707025901584621000	lib/libgtestd.a	51eed37149460812
+3815	3891	1707025901658700846	bin/main	e74477f18ab690fb
